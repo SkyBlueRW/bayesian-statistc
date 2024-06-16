@@ -2,7 +2,7 @@ numpy
 pandas
 ipython
 scipy
-pymc3
+pymc
 ipython
 scikit-learn
 black
