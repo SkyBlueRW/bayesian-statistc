@@ -1,3 +1,5 @@
 numpy
 pandas
 ipython
+scipy
+ipython
